@@ -1,6 +1,6 @@
 '''Normando de Campos Amazonas Filho, 11561949
 Image Enhancement, SCC0251_Turma01_1Sem_2020_ET
-Short Assignment 2: Image Restoration
+Short Assignment 3: Mathematical Morphology for Color Image Processing
 https://github.com/normandoamazonas/ShortAssignment3'''
 
 
